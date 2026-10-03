@@ -1,0 +1,29 @@
+body {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 50px;
+  font-family: "Courier New", monospace;
+  color: #f4f4ff;
+  background-color: #101023;
+}
+
+h1 {
+  color: #42f5e9;
+  font-size: 50px;
+  text-shadow: 3px 3px #ff3cac;
+}
+
+h2 {
+  color: #ffde59;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+img {
+  width: 100%;
+  border: 5px solid #ff3cac;
+  border-radius: 18px;
+}
